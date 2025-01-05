@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pm4py-dcr-feature-dcr_in_pm4py_revised"
+    ]
+}
